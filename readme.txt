@@ -11,3 +11,4 @@ master分支
 分支解决冲突测试
 >>>>>>> feature1
 冲突后的添加测试
+no fast forward
