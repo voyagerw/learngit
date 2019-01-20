@@ -12,3 +12,4 @@ master分支
 >>>>>>> feature1
 冲突后的添加测试
 no fast forward
+修复bug分支
