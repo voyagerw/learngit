@@ -12,4 +12,9 @@ master分支
 >>>>>>> feature1
 冲突后的添加测试
 no fast forward
+<<<<<<< HEAD
 修复bug分支
+=======
+多次stash
+>>>>>>> dev
+撒旦
