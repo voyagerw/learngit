@@ -18,3 +18,4 @@ no fast forward
 多次stash
 >>>>>>> dev
 撒旦
+分支冲突master部分更改readme
